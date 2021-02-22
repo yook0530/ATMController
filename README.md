@@ -32,7 +32,7 @@ For building and running the application you need:
 - Create Configuration > JUnit 
 [![ReadMe.png](https://i.postimg.cc/Wbv1TDJm/ReadMe.png)](https://postimg.cc/5jsVm2gj)
 
-
+5)
 ```
 src > test > java > ATMController > ATMControllerImpltest > Run Test
 ```
