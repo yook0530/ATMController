@@ -2,12 +2,15 @@
 
 ATMController
 
+Java 11
+Spring v2.4.3 
+
 ## Requirements
 
 For building and running the application you need:
 
 - [JDK 11] https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
-- [Gradle] 
+- [Gradle] https://gradle.org/install/
 
 ## Test
 - JUnit 5
