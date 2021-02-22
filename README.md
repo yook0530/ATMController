@@ -28,6 +28,10 @@ For building and running the application you need:
 3) Per-module ByteCode Version
 - Preferences -> Build, Excecution... -> Compiler -> Per-module bytecode version (set Java 11)
 
+4) Edit Configuration
+- Create Configuration > JUnit 
+[![ReadMe.png](https://i.postimg.cc/Wbv1TDJm/ReadMe.png)](https://postimg.cc/5jsVm2gj)
+
 
 ```
 src > test > java > ATMController > ATMControllerImpltest > Run Test
