@@ -74,7 +74,6 @@ class ATMControllerImplTest {
         ATM.selectAcocunt(gunny);
         ATM.withdraw(1000);
         assertThat(((ATMControllerImpl) ATM).getAccount().checkBalance()).isEqualTo(9000);
-//        ATM.ejectCard();
 
     }
 
