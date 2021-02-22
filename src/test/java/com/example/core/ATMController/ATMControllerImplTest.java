@@ -62,7 +62,6 @@ class ATMControllerImplTest {
         ATM.enterPinNum(1535);
         ATM.selectAcocunt(danny);
         assertThat(((ATMControllerImpl) ATM).getAccount()).isEqualTo(danny);
-//        ATM.ejectCard();
     }
 
     @Test
